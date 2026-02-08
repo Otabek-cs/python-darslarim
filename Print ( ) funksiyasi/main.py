@@ -2,8 +2,8 @@
 # 3/02/2026
 # Muallif: Otabek
 
-# print(" Salom ona")
-#print('Men "Aser" markasidagi noutbuk sotib oldim')
+print(" Salom ona")
+print('Men "Aser" markasidagi noutbuk sotib oldim')
 # matn ichidayam kavichki uchrasa \"Aser\" ishlatiladi yoki kavichkalar fark qilishi kk
 #print(""" Odam, aka, ona,
 #ota, opa""")
